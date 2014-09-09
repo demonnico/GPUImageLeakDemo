@@ -1,0 +1,14 @@
+PODS:
+  - GPUImage (0.1.4)
+
+DEPENDENCIES:
+  - GPUImage (from `git@github.com:demon1105/GPUImage.git`)
+
+EXTERNAL SOURCES:
+  GPUImage:
+    :git: git@github.com:demon1105/GPUImage.git
+
+SPEC CHECKSUMS:
+  GPUImage: f9b32e12350792a630e596ffc7b050bea3662670
+
+COCOAPODS: 0.33.1
